@@ -73,9 +73,42 @@
   <br>
   <br>
 
+  Building HTML Forms:<br><br>
+  <form action ="student-response.jsp">
+    First name: <input type="text" name="firstName" />
+    <br><br>
+    Last name: <input type="text" name="lastName" />
+
+  <br><br>
+
+<%--  Building HTML Forms - Dropdown menu: <br><br>--%>
+    Country:
+    <select name="country">
+      <option>Estonia</option>
+      <option>UK</option>
+      <option>Germany</option>
+      <option>USA</option>
+    </select>
+
+    <br><br>
+
+    <%--  Building HTML Forms - Bullet chooser: <br><br>--%>
+    Favourite programming languages: <br>
+    <input type="checkbox" name="favLang" value="Java"> Java
+    <input type="checkbox" name="favLang" value="Python"> Python
+    <input type="checkbox" name="favLang" value="C++"> C++
+
+    <br><br>
+
+    <input type="submit" value="Submit" />
+  </form>
+
+
+
+  <br>
+  <br>
+
   <jsp:include page="footer.jsp" />
-
-
 
   </body>
 </html>
