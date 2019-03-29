@@ -7,7 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b667373-84ff-4d0d-998b-bc27132f9086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/JSP01_war_exploded/student-response.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/htmlForms.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSP01_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSP01_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +30,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+            <state relative-caret-position="252">
+              <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/htmlForms.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -94,6 +106,7 @@
         <option value="$PROJECT_DIR$/web/header.html" />
         <option value="$PROJECT_DIR$/web/student-dropdown-response.jsp" />
         <option value="$PROJECT_DIR$/web/student-response.jsp" />
+        <option value="$PROJECT_DIR$/web/htmlForms.jsp" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
@@ -230,7 +243,7 @@
       <updated>1553787849880</updated>
       <workItem from="1553787856817" duration="151000" />
       <workItem from="1553862290483" duration="3148000" />
-      <workItem from="1553866156104" duration="3064000" />
+      <workItem from="1553866156104" duration="3686000" />
     </task>
     <task id="LOCAL-00001" summary="Add second part">
       <created>1553869106817</created>
@@ -243,7 +256,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6363000" />
+    <option name="totallyTimeSpent" value="6985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="-11" width="1311" height="780" extended-state="6" />
@@ -327,10 +340,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/htmlForms.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="95" column="35" selection-start-line="95" selection-start-column="35" selection-end-line="95" selection-end-column="35" />
+        <state relative-caret-position="252">
+          <caret line="75" column="36" selection-start-line="75" selection-start-column="36" selection-end-line="75" selection-end-column="36" />
         </state>
       </provider>
     </entry>
