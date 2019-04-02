@@ -63,3 +63,9 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+# CC
+#https://stackoverflow.com/questions/27647889/should-i-add-idea-workspace-xml-to-gitignore/27648003 
+.idea/workspace.xml
+.idea/tasks.xml
+ 
