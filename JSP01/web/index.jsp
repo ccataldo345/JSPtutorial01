@@ -78,6 +78,17 @@
   <br>
   <br>
 
+  <a href="todo.jsp">Part 03a - SESSIONS</a>
+
+  <br>
+  <br>
+
+  <a href="cookies-personalized-form.html">Part 03b - COOKIES</a>
+
+
+  <br>
+  <br>
+
   <jsp:include page="footer.jsp" />
 
   </body>

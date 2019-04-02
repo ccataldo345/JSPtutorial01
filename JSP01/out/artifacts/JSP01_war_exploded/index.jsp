@@ -73,7 +73,18 @@
   <br>
   <br>
 
-  <a href="htmlForms.jsp">HTML FORMS</a>
+  <a href="htmlForms.jsp">Part 02 - HTML FORMS</a>
+
+  <br>
+  <br>
+
+  <a href="todo.jsp">Part 03a - SESSIONS</a>
+
+  <br>
+  <br>
+
+  <a href="cookies-personalized-form.html">Part 03b - COOKIES</a>
+
 
   <br>
   <br>
