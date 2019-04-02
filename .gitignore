@@ -66,6 +66,9 @@ local.properties
 
 # CC
 #https://stackoverflow.com/questions/27647889/should-i-add-idea-workspace-xml-to-gitignore/27648003 
-.idea/workspace.xml
-.idea/tasks.xml
- 
+# User-specific stuff:
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/dictionaries
+**/.idea/vcs.xml
+**/.idea/jsLibraryMappings.xml 
